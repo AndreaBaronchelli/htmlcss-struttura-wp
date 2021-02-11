@@ -12,7 +12,7 @@
     margin: 0 auto;
 }
 
-.clearfix::after {
+ .clearfix::after {
     content: "";
     display: table;
     clear: both;
@@ -49,7 +49,8 @@ main.top {
     margin-bottom: 20px;
 }
 
-.box aside, .box section {
+.box aside, 
+.box section {
     height: 510px;
     margin-bottom: 20px;
     float: left;
