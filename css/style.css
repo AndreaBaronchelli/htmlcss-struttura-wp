@@ -1,0 +1,19 @@
+/* GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* UTILITY */
+.container {
+    width: 80%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    height: 200px;
+    background-color: plum;
+}
