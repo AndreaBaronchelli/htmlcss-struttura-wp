@@ -36,8 +36,8 @@ main.top {
 
 /* MAIN CONTENT */
 .box {
-    height: 500px;
     background: #3286ff;
+    margin-bottom: 15px;
 }
 
 .box > * {
@@ -50,7 +50,7 @@ main.top {
 }
 
 .box aside, .box section {
-    height: 410px;
+    height: 510px;
     margin-bottom: 20px;
     float: left;
 }
@@ -63,3 +63,8 @@ main.top {
     width: 50%;
     margin: 0 1%;
 } 
+
+footer {
+    height: 50px;
+    background: #8700fd;
+}
